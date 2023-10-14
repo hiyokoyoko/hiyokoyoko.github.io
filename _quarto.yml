@@ -1,13 +1,27 @@
 project:
   type: website
-
+  output-dir: "docs"
+  
 website:
-  title: "hiyokoyoko.github.io"
+  title: "Yoko Teraoka"
+  favicon: figs/favicon.png
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: "About"
+        href: about.html
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hiyokoyoko/
+      - icon: github
+        href: https://github.com/hiyokoyoko
+    background: "#001E62"
+    foreground: "#C63527"
+  page-footer: 
+    center: 
+      - "<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Yoko Teraoka</p>"
+    background: "#3E6CB9"
+    foreground: "#EBCB64"
+  site-url: https://hiyokoyoko.github.io
+  description: "Yoko Teraoka's Personal Website"
 
 format:
   html:

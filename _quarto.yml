@@ -9,12 +9,16 @@ website:
     right:
       - text: "About"
         href: about.html
+      - text: "Cal"
+        href: california.html
+      - text: "Blog"
+        href: https://hiyokoyoko.github.io/Blog.html
       - icon: linkedin
         href: https://www.linkedin.com/in/hiyokoyoko/
       - icon: github
         href: https://github.com/hiyokoyoko
-    background: "#001E62"
-    foreground: "#C63527"
+    background: "#191970"
+    foreground: "#ff1493"
   page-footer: 
     center: 
       - "<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Yoko Teraoka</p>"

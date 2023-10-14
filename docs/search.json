@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "hiyokoyoko.github.io",
+    "objectID": "stanford.html",
+    "href": "stanford.html",
+    "title": "stanford",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "hdgdhgdhg"
+  },
+  {
+    "objectID": "california.html",
+    "href": "california.html",
+    "title": "cal",
+    "section": "",
+    "text": "ffjkk\nclick here"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yoko Teraoka",
+    "section": "",
+    "text": "Sho Miyazaki is a Research Fellow (predoctoral) at Stanford Graduate School of Business, mentored by Prof. Andrew Hall in Political Economics Group. With Prof. Hall, he is now analyzing the voting system of DAOs collecting data from blockchains.\nHe holds LL.B. from Keio University, where he studied political science (major), Japanese literature and arts (minor), and statistics. In AY 2020-21, he studied at Harvard College as a visiting student. Aftrer completing the Pre-Doc in 2025, he wants to proceed to Ph.D. Program in Computational Social Science.\nHis research focuses on the quantitative analysis of voting systems, particularly focus on political representation. Also, his interests expands to legislative redistricting, Web3, financial markets, and rugby football.\nOutside Stanford, he is affiliated with the Algorithm-Assisted Redistricting Methodology (ALARM) Project, and awarded as Keio University Global Fellow 2023.\n\n\n\nStanford Graduate School of Business | Stanford, CA\n\nResearch Fellow (Predoctoral) | July 2023 - June 2025\nMentored by Prof. Andrew Hall\n\nKeio University | Tokyo, Japan\n\nLL.B. in Political Science | April 2019 - March 2023\n\nHarvard College | Cambridge, MA\n\nVisiting Undergraduate Student | August 2020 - May 2021\n\ngggggggg"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Yoko Teraoka",
+    "section": "",
+    "text": "Sho Miyazaki is a Research Fellow (predoctoral) at Stanford Graduate School of Business, mentored by Prof. Andrew Hall in Political Economics Group. With Prof. Hall, he is now analyzing the voting system of DAOs collecting data from blockchains.\nHe holds LL.B. from Keio University, where he studied political science (major), Japanese literature and arts (minor), and statistics. In AY 2020-21, he studied at Harvard College as a visiting student. Aftrer completing the Pre-Doc in 2025, he wants to proceed to Ph.D. Program in Computational Social Science.\nHis research focuses on the quantitative analysis of voting systems, particularly focus on political representation. Also, his interests expands to legislative redistricting, Web3, financial markets, and rugby football.\nOutside Stanford, he is affiliated with the Algorithm-Assisted Redistricting Methodology (ALARM) Project, and awarded as Keio University Global Fellow 2023.\n\n\n\nStanford Graduate School of Business | Stanford, CA\n\nResearch Fellow (Predoctoral) | July 2023 - June 2025\nMentored by Prof. Andrew Hall\n\nKeio University | Tokyo, Japan\n\nLL.B. in Political Science | April 2019 - March 2023\n\nHarvard College | Cambridge, MA\n\nVisiting Undergraduate Student | August 2020 - May 2021\n\ngggggggg"
   }
 ]
